@@ -34,7 +34,7 @@ A beautifully styled, interactive **Tic Tac Toe** game built using **HTML**, **C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/UzairAsif-8/tic-tac-toe-game.git
+   git clone https://github.com/UzairAsif-8/Tic-Tac-Toe-Game.git
    ```
 2. Open index.html in any modern browser.
 
