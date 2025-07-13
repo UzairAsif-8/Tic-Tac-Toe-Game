@@ -6,7 +6,7 @@ A beautifully styled, interactive **Tic Tac Toe** game built using **HTML**, **C
 
 ## 🌐 Live Demo
 
-🔗 [Click here to play now on Vercel](https://your-vercel-link.vercel.app)
+🔗 [Click here to play now on Vercel](https://tic-tac-toe-game-bcigstp07-uzairasif-8s-projects.vercel.app/)
 
 ---
 
